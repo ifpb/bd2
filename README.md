@@ -9,8 +9,8 @@
 ### Horários / Local
 
 * Horários:
-  - **Terça (16:40 - 17:30)** - Lab 03.
-  - **Quinta (13:00 - 15.30)** - Lab 03.
+  - **Terça (16:20 - 18:00)** - Lab 03.
+  - **Quinta (13:00 - 14.40)** - Lab 03.
 
 ## Comunicação
 
@@ -20,8 +20,8 @@ Toda a comunicação será realizada usando via email.
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I (Prova Escrita 1)
-* Avaliação II (Prova Escrita 2)
+* Avaliação I (Prova Prática) - 15/04
+* Avaliação II (Escrita + Prática)
 * Avaliação III (Projeto)
 
 * Reposição
